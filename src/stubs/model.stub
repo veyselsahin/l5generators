@@ -1,0 +1,12 @@
+<?php namespace App\Models;
+
+use {{interface_model_namespace}};
+
+class {{model_class}} extends {{interface_model_class}} {
+
+
+    {{model_fields}}
+
+}
+
+

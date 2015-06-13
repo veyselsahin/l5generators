@@ -1,0 +1,22 @@
+{
+  "name": "veyselsahin/l5generators",
+  "description": "Extend Laravel 5's generators scaffold.",
+  "keywords": ["laravel", "generators", "scaffold" , "laravel5"],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Veysel Şahin",
+      "email": "hello@veyselsahin.com.tr"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "~5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "veyselsahin\\l5generators\\": "src/"
+    }
+  }
+}
